@@ -1,0 +1,105 @@
+{
+  "configVersion": 1,
+  "timestamp": 1754417967824,
+  "index": "/chantier-test/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/chantier-test/chunk-2JVPZ3EO.js",
+        "/chantier-test/chunk-7DRQIXYS.js",
+        "/chantier-test/chunk-ENL4EASB.js",
+        "/chantier-test/chunk-GGBODN2V.js",
+        "/chantier-test/chunk-I4KBGCLF.js",
+        "/chantier-test/chunk-LGLN3E3P.js",
+        "/chantier-test/chunk-OOCL7OEC.js",
+        "/chantier-test/chunk-T3VIHPXC.js",
+        "/chantier-test/chunk-VGR2LGBI.js",
+        "/chantier-test/chunk-VWBOCZWV.js",
+        "/chantier-test/favicon.ico",
+        "/chantier-test/index.html",
+        "/chantier-test/main-BKEMUOES.js",
+        "/chantier-test/manifest.webmanifest",
+        "/chantier-test/styles-J47NIYZT.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/chantier-test/icons/icon-128x128.png",
+        "/chantier-test/icons/icon-144x144.png",
+        "/chantier-test/icons/icon-152x152.png",
+        "/chantier-test/icons/icon-192x192.png",
+        "/chantier-test/icons/icon-384x384.png",
+        "/chantier-test/icons/icon-512x512.png",
+        "/chantier-test/icons/icon-72x72.png",
+        "/chantier-test/icons/icon-96x96.png",
+        "/chantier-test/media/primeicons-4GST5W3O.woff2",
+        "/chantier-test/media/primeicons-DHQU4SEP.svg",
+        "/chantier-test/media/primeicons-GEFHGEHP.ttf",
+        "/chantier-test/media/primeicons-P53SE5CV.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/chantier-test/chunk-2JVPZ3EO.js": "0573dde207e4f147851396b83482bdda34188dff",
+    "/chantier-test/chunk-7DRQIXYS.js": "d71e69bc66dcd63aae45e94006bbd79ad1cee5c9",
+    "/chantier-test/chunk-ENL4EASB.js": "4b57b97b0711296dd9fba814c3bb1d6661958f9e",
+    "/chantier-test/chunk-GGBODN2V.js": "ce877211795e7c3453c9f53854bea6905b5270ab",
+    "/chantier-test/chunk-I4KBGCLF.js": "b2d11ac96ee6943780169ddb4357081901c4db80",
+    "/chantier-test/chunk-LGLN3E3P.js": "43097bf5ae48a4abc5b619900ff14e478ab35ee5",
+    "/chantier-test/chunk-OOCL7OEC.js": "8353217e11994591123bc948492596c6fea6c8b0",
+    "/chantier-test/chunk-T3VIHPXC.js": "6c85630ea210522ab744715efab3b7516812b263",
+    "/chantier-test/chunk-VGR2LGBI.js": "6ecf24571ba60f79ce38337e72142e6479b716c5",
+    "/chantier-test/chunk-VWBOCZWV.js": "2697366e1f9b3fd6b750a60fabe41a803df586ac",
+    "/chantier-test/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/chantier-test/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/chantier-test/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/chantier-test/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/chantier-test/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/chantier-test/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/chantier-test/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/chantier-test/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/chantier-test/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/chantier-test/index.html": "45ca57afdebb157acf94410657c1dec8502192df",
+    "/chantier-test/main-BKEMUOES.js": "f7161ed9a7b147417e9a895a8832de16d8212650",
+    "/chantier-test/manifest.webmanifest": "0b7035f3fd0aa0fb4e161299dff2bf6f5b84fcc9",
+    "/chantier-test/media/primeicons-4GST5W3O.woff2": "837c1279b6af9d297f34fdb43e6fcc9206a79f32",
+    "/chantier-test/media/primeicons-DHQU4SEP.svg": "a07ae39027c1a780b42fd82fad7575c2924d9d28",
+    "/chantier-test/media/primeicons-GEFHGEHP.ttf": "3b878ca7e88945a8ec25814810b95367d8977ae6",
+    "/chantier-test/media/primeicons-P53SE5CV.woff": "361e3af71bb4e515feead2f787348a92a5527158",
+    "/chantier-test/styles-J47NIYZT.css": "61eaac19e7c0cc50641e65c7090c15545175a17e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
